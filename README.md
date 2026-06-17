@@ -1,396 +1,206 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:1a0533,60:2d1b69,100:0f0c29&height=280&section=header&text=Yogeshwari%20Kalaskar&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%A2%20Python%20Engineer%20%E2%80%A2%20AI%20Enthusiast&descAlignY=62&descSize=17&animation=fadeIn&stroke=7c3aed&strokeWidth=2" width="100%"/>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:EC4899&height=200&section=header&text=Yogeshwari%20Kalaskar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Python%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&descColor=e0d7ff"/>
 
-</div>
-
-<div align="center">
-
-<a href="https://github.com/Yogeshwari7887">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=680&lines=%E2%96%B6+Building+Scalable+Web+Applications+%F0%9F%9A%80;%E2%96%B6+YOLOv8+%7C+Django+%7C+React+%7C+Flask+%7C+MySQL;%E2%96%B6+B.Tech+IT+%40+VIT+Pune+%E2%80%94+CGPA%3A+9.4%2F10+%F0%9F%8E%AF;%E2%96%B6+Turning+Intelligent+Ideas+Into+Production+Code+%E2%9C%A8" alt="Typing SVG"/>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications+%F0%9F%9A%80;Python+%26+Django+Backend+Engineer+%F0%9F%90%8D;AI-Powered+Solutions+Developer+%F0%9F%A4%96;B.Tech+IT+%40+VIT+Pune+%7C+CGPA+9.4+%E2%AD%90;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
-
-<br/><br/>
-
-<a href="https://github.com/Yogeshwari7887">
-  <img src="https://komarev.com/ghpvc/?username=Yogeshwari7887&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS&labelColor=1e1b4b" alt="Profile Views"/>
-</a>&ensp;
-<a href="https://github.com/Yogeshwari7887?tab=followers">
-  <img src="https://img.shields.io/github/followers/Yogeshwari7887?style=for-the-badge&color=a78bfa&labelColor=1e1b4b&label=FOLLOWERS" alt="Followers"/>
-</a>&ensp;
-<img src="https://img.shields.io/badge/CGPA-9.4%20%2F%2010-a78bfa?style=for-the-badge&labelColor=1e1b4b" alt="CGPA"/>&ensp;
-<img src="https://img.shields.io/badge/STATUS-Open%20To%20Work-22c55e?style=for-the-badge&labelColor=1e1b4b" alt="Open To Work"/>
-
-</div>
 
 <br/>
 
----
-
-<div align="center">
-
-## ❝ &nbsp;`Code is poetry — write it beautifully.`&nbsp; ❞
+<!-- Profile Views & Social Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Yogeshwari7887&label=Profile+Views&color=A855F7&style=for-the-badge" alt="profile views"/>
+  &nbsp;
+  <a href="mailto:yogeshwari7887@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-yogeshwari7887-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Yogeshwari7887">
+    <img src="https://img.shields.io/badge/GitHub-Yogeshwari7887-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Pune%2C%20India-EC4899?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</p>
 
 </div>
 
 ---
 
-## 🧬 &nbsp;`whoami`
+<!-- About Me Section -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 ```python
 class Yogeshwari:
-    """Full Stack Developer | Python Engineer | AI Enthusiast"""
-
     def __init__(self):
-        self.name       = "Yogeshwari Sudhakar Kalaskar"
-        self.location   = "Pune, Maharashtra, India 🇮🇳"
-        self.education  = "B.Tech IT @ VIT Pune  ·  CGPA: 9.4 / 10"
-        self.training   = "Full Stack Python @ Passion Software Solutions Pvt. Ltd."
-        self.email      = "yogeshwari7887@gmail.com"
-        self.roles      = ["Full Stack Developer", "Python Engineer", "AI Builder"]
-        self.superpowers= ["Clean Architecture", "AI Integration", "Rapid Prototyping"]
+        self.name        = "Yogeshwari Sudhakar Kalaskar"
+        self.role        = ["Full Stack Developer", "Python Engineer", "AI Explorer"]
+        self.education   = "B.Tech IT @ VIT Pune (CGPA: 9.4 / 10)"
+        self.location    = "Pune, Maharashtra, India 🇮🇳"
+        self.email       = "yogeshwari7887@gmail.com"
+        self.passion     = "Building real-world impact through intelligent software"
+        self.currently   = "Exploring AI/ML & scalable web architectures"
+        self.fun_fact    = "I turn complex problems into clean, elegant code ✨"
 
-    def current_focus(self) -> list[str]:
-        return [
-            "🤖  AI-Powered Web Applications (YOLOv8 + Django)",
-            "🌐  Full Stack Engineering  —  React · Django REST · Flask",
-            "📦  Scalable Backends & Database Optimization",
-            "🧠  Advanced DSA & Competitive Programming",
-            "☁️   Cloud Deployment · Docker · CI/CD Pipelines",
-        ]
-
-    def philosophy(self) -> str:
-        return "Ship fast. Think deeply. Build things that matter."
+    def greet(self):
+        return "Hello World! Let's build something amazing together 🚀"
 
 me = Yogeshwari()
-print(me.philosophy())
-# → Ship fast. Think deeply. Build things that matter.
+print(me.greet())
 ```
+
+<br/>
 
 ---
 
-## 🏛️ &nbsp;About Me
+<!-- Tech Stack -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Arsenal
+
+<div align="center">
+
+### 🐍 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-★★★★★-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/PHP-★★★★☆-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQL-★★★★★-F29111?style=for-the-badge&logo=mysql&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-★★★☆☆-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/C++-★★★☆☆-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Java-★★★☆☆-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</p>
+
+### ⚙️ Backend & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-★★★★★-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-★★★☆☆-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### 🤖 AI / Computer Vision
+<p>
+  <img src="https://img.shields.io/badge/YOLOv8-Computer%20Vision-FF6B35?style=for-the-badge&logo=opencv&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/OpenCV-AI%20Powered-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+</p>
+
+</div>
+
+---
+
+<!-- Featured Projects -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Featured Projects
+
+<div align="center">
+
+<!-- Project 1 -->
 <table>
 <tr>
-<td width="52%" valign="top">
+<td width="50%" valign="top">
 
-**A full-stack engineer and AI builder** based in Pune, currently pursuing **B.Tech in Information Technology** at Vishwakarma Institute of Technology with a CGPA of **9.4/10**.
+### 🚦 AI Smart Traffic Management System
+<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square"/> &nbsp; <img src="https://img.shields.io/badge/Year-2026-A855F7?style=flat-square"/>
 
-I design and ship production-ready web applications, intelligent computer-vision systems, and scalable backend services — blending academic excellence with hands-on industry practice from my **7-week intensive training** at Passion Software Solutions.
+> **Intelligent traffic control system** that detects emergency vehicles using **YOLOv8** and dynamically clears green corridors in real-time.
 
-My approach: **ruthlessly clean code**, thoughtful system design, and genuine care for the end user's experience.
+**✨ Impact**
+- 🎯 **92%** emergency vehicle detection accuracy
+- ⚡ **~40%** reduction in emergency response time
+- 📊 Real-time traffic analytics dashboard
+
+**🛠️ Stack**
+`YOLOv8` `Python` `Flask` `React` `Computer Vision`
 
 </td>
-<td width="48%" valign="top">
+<td width="50%" valign="top">
 
-```
-╔══════════════════════════════════════╗
-║         QUICK STATS                  ║
-╠══════════════════════════════════════╣
-║  🎓  B.Tech IT @ VIT Pune            ║
-║  📊  9.4 / 10  CGPA                  ║
-║  🏅  91.49%   Diploma in CS Engg.    ║
-║  🏢  Passion Software Solutions      ║
-║  ⏱   7-Week Full Stack Training      ║
-║  🚀  3 Production-Grade Projects     ║
-║  🎯  92% Accuracy — YOLOv8 AI Model  ║
-║  ⚡  40% Faster Emergency Response   ║
-╚══════════════════════════════════════╝
-```
+### 🛒 GrowPure – Organic E-Commerce
+<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square"/> &nbsp; <img src="https://img.shields.io/badge/Type-Full%20Stack-6C63FF?style=flat-square"/>
+
+> **Production-grade e-commerce platform** for organic products with complete business workflows, admin controls, and responsive UX.
+
+**✨ Features**
+- 🔐 Auth + User & Admin Dashboards
+- 🛍️ Cart, Wishlist, Coupons & Discounts
+- 📦 Order Tracking System
+
+**🛠️ Stack**
+`Django` `Python` `MySQL` `Bootstrap` `JavaScript`
 
 </td>
 </tr>
-</table>
-
----
-
-## ⚡ &nbsp;Tech Stack & Arsenal
-
-<div align="center">
-
-### ◈ &nbsp;Languages
-
-<img src="https://skillicons.dev/icons?i=python,php,java,js,c,cpp&theme=dark&perline=6"/>
-
-### ◈ &nbsp;Frameworks & Libraries
-
-<img src="https://skillicons.dev/icons?i=django,react,flask,html,css,bootstrap&theme=dark&perline=6"/>
-
-### ◈ &nbsp;Databases & Tools
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,androidstudio&theme=dark&perline=6"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| Language | Proficiency | Framework / Tool | Proficiency |
-|:---|:---:|:---|:---:|
-| 🐍 Python | `████████████` Expert | ⚙️ Django | `██████████░░` Advanced |
-| 🐘 PHP | `██████████░░` Advanced | 🌶️ Flask | `██████████░░` Advanced |
-| 🗄️ SQL | `████████████` Expert | ⚛️ React.js | `████████░░░░` Intermediate |
-| 🌐 JavaScript | `████████░░░░` Intermediate | 🎨 Bootstrap | `██████████░░` Advanced |
-| ☕ Java | `██████░░░░░░` Intermediate | 🧠 YOLOv8 / OpenCV | `████████░░░░` Intermediate |
-| 🔵 C / C++ | `█████████░░░` Advanced | 🗃️ MySQL / MongoDB | `██████████░░` Advanced |
-
-</div>
-
----
-
-## 🚀 &nbsp;Featured Projects
-
-<table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="33%" valign="top">
+### 💙 YourHearingEar – Counseling Platform
+<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square"/> &nbsp; <img src="https://img.shields.io/badge/Year-Sep%202025-EC4899?style=flat-square"/>
 
-<div align="center">
+> **Empathetic digital counseling platform** focused on supportive communication, ethical design, and meaningful human interaction.
 
-### 🚦 AI Smart Traffic System
-`Jan 2026` &nbsp;·&nbsp; `Computer Vision`
+**✨ Highlights**
+- 🤝 Structured guidance system
+- 💬 Conversational support interface
+- 🛡️ Ethical communication framework
 
-</div>
-
----
-
-Intelligent traffic control that **detects emergency vehicles** using **YOLOv8** and autonomously generates green signal corridors in real-time to cut emergency response times.
-
-**✦ Impact**
-- 🎯 **92% detection accuracy**
-- ⚡ **40% faster** emergency response
-- 📡 Real-time signal synchronization
-- 📊 Live traffic analytics dashboard
-
-**✦ Stack**
-
-![YOLOv8](https://img.shields.io/badge/YOLOv8-FF4D00?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+**🛠️ Stack**
+`Django` `Python` `HTML` `CSS` `JavaScript`
 
 </td>
+<td width="50%" valign="top">
 
-<td width="33%" valign="top">
+### 🌱 More Projects Coming Soon...
+<img src="https://img.shields.io/badge/Status-Building-orange?style=flat-square"/>
 
-<div align="center">
+> Currently working on more **AI-powered** and **full-stack** applications. Watch this space! ⭐
 
-### 🌿 GrowPure
-`Full Stack` &nbsp;·&nbsp; `E-Commerce`
+**🔭 What's Next**
+- 🤖 ML-integrated web apps
+- 🌐 Scalable microservice architectures
+- 📱 Cross-platform mobile apps
 
-</div>
+**👀 Stay Tuned!**
+`AI/ML` `Django REST` `React Native`
 
----
-
-Production-grade **organic e-commerce platform** with complete business workflows — from product discovery to checkout, order tracking, and an admin control center.
-
-**✦ Impact**
-- 🔐 Secure auth & session management
-- 🛒 Cart, wishlist, and coupon engine
-- 📦 Real-time order tracking
-- 🎨 Fully responsive, mobile-first UI
-
-**✦ Stack**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-</td>
-
-<td width="33%" valign="top">
-
-<div align="center">
-
-### 💙 YourHearingEar
-`Sep 2025` &nbsp;·&nbsp; `Mental Health Tech`
-
-</div>
-
----
-
-A **compassionate counseling platform** providing structured guidance, empathetic support flows, and meaningful user interactions — built with ethics and user trust at its core.
-
-**✦ Impact**
-- 🧭 Structured multi-step guidance
-- 💬 Conversational support system
-- 🤝 Ethics-first UX architecture
-- 🛡️ Trust-centered data handling
-
-**✦ Stack**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 📊 &nbsp;GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Yogeshwari7887&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0B1E&title_color=A78BFA&icon_color=7C3AED&text_color=E2D9F3&rank_icon=github&include_all_commits=true&count_private=true&card_width=420" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Yogeshwari7887&theme=midnight-purple&hide_border=true&background=0D0B1E&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E2D9F3&dates=9CA3AF&currStreakNum=ffffff&sideNums=ffffff" width="49%" alt="Streak Stats"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshwari7887&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0D0B1E&title_color=A78BFA&text_color=E2D9F3&langs_count=8" width="38%" alt="Top Languages"/>
-&ensp;
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogeshwari7887&bg_color=0D0B1E&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true&area_color=2D1B69&title_color=A78BFA" width="59%" alt="Contribution Graph"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yogeshwari7887&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=6" width="100%" alt="Trophies"/>
-
-</div>
-
----
-
-## 🧩 &nbsp;DSA & Competitive Programming
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Yogeshwari7887)&ensp;
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/yogeshwari7887)&ensp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/yogeshwari7887)&ensp;
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/yogeshwari7887)&ensp;
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/yogeshwari7887)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| 🏆 Platform | 🎯 Focus | 📈 Activity |
-|:---:|:---|:---:|
-| ![LC](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | Data Structures & Algorithms | 🟢 Active |
-| ![CC](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | Competitive Programming | 🟢 Active |
-| ![HR](https://img.shields.io/badge/-HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black) | Python & SQL Challenges | 🟢 Active |
-| ![CF](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | Algorithmic Problem Solving | 🟢 Active |
-| ![GFG](https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white) | CS Fundamentals & Practice | 🟢 Active |
-
-</div>
-
----
-
-## 📚 &nbsp;Currently Learning
-
-```mermaid
-mindmap
-  root((🧠 Yogeshwari's
-    Learning Map 2026))
-    🤖 AI & ML
-      Deep Learning Foundations
-      YOLOv8 · Computer Vision
-      Model Optimization
-    🌐 Full Stack
-      Advanced Django REST APIs
-      React.js Ecosystem
-      System Design Patterns
-    ☁️ Cloud & DevOps
-      Docker & Containerization
-      CI/CD Pipeline Design
-      Cloud Deployment · AWS
-    📊 Data & Algorithms
-      Advanced DSA
-      Database Optimization
-      Data Engineering Basics
-```
-
-<div align="center">
-
-![Django](https://img.shields.io/badge/Mastering-Advanced%20Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white)&ensp;
-![React](https://img.shields.io/badge/Mastering-React%20Ecosystem-61DAFB?style=for-the-badge&logo=react&logoColor=black)&ensp;
-![Deep Learning](https://img.shields.io/badge/Exploring-Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&ensp;
-![Docker](https://img.shields.io/badge/Learning-Docker%20%26%20Cloud-2496ED?style=for-the-badge&logo=docker&logoColor=white)&ensp;
-![System Design](https://img.shields.io/badge/Studying-System%20Design-7C3AED?style=for-the-badge&logo=blueprint&logoColor=white)
-
-</div>
-
----
-
-## 🏆 &nbsp;Achievements & Milestones
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<br/>
-<h1>9.4</h1>
-<b>CGPA</b><br/>
-<sub>B.Tech IT @ VIT Pune</sub>
-<br/>&nbsp;
-</td>
-<td align="center" width="25%">
-<br/>
-<h1>91.49<sup><small>%</small></sup></h1>
-<b>Diploma Score</b><br/>
-<sub>Computer Engineering</sub>
-<br/>&nbsp;
-</td>
-<td align="center" width="25%">
-<br/>
-<h1>92<sup><small>%</small></sup></h1>
-<b>AI Accuracy</b><br/>
-<sub>YOLOv8 Traffic System</sub>
-<br/>&nbsp;
-</td>
-<td align="center" width="25%">
-<br/>
-<h1>40<sup><small>%</small></sup></h1>
-<b>Faster Response</b><br/>
-<sub>Emergency Vehicle AI</sub>
-<br/>&nbsp;
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-<br/>
-<h1>3</h1>
-<b>Live Projects</b><br/>
-<sub>Production-grade apps</sub>
-<br/>&nbsp;
-</td>
-<td align="center" width="25%">
-<br/>
-<h1>7<sup><small>wks</small></sup></h1>
-<b>Industry Training</b><br/>
-<sub>Passion Software Solutions</sub>
-<br/>&nbsp;
-</td>
-<td align="center" width="25%">
-<br/>
-<h1>7<sup><small>+</small></sup></h1>
-<b>Technologies</b><br/>
-<sub>Languages & frameworks</sub>
-<br/>&nbsp;
-</td>
-<td align="center" width="25%">
-<br/>
-<h1>5</h1>
-<b>CP Platforms</b><br/>
-<sub>Active DSA practice</sub>
-<br/>&nbsp;
 </td>
 </tr>
 </table>
@@ -399,70 +209,157 @@ mindmap
 
 ---
 
-## 💼 &nbsp;Industry Experience
+<!-- GitHub Stats -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> GitHub Analytics
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│            PASSION SOFTWARE SOLUTIONS PVT. LTD.                │
-│                                                                 │
-│          ◈  Role    →   Full Stack Python Trainee               │
-│          ◈  Period  →   June 2024   ·   7 Weeks                 │
-│          ◈  Mode    →   Industry-Immersive Training             │
-│                                                                 │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│    ✦   Python & Django Backend Engineering                      │
-│    ✦   Responsive Frontend: HTML · CSS · Bootstrap · JS         │
-│    ✦   Relational Databases: MySQL Schema Design & Queries      │
-│    ✦   Version Control: Git & GitHub Collaborative Workflows    │
-│    ✦   End-to-End Web Application Architecture & Deployment     │
-│    ✦   Industry-Standard Code Quality & Best Practices          │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## 🤝 &nbsp;Let's Connect
-
-<div align="center">
-
-*Open to internships, collaborations, and exciting opportunities!*
-
-<br/>
-
-[![Email](https://img.shields.io/badge/📧%20%20Email%20Me-yogeshwari7887%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogeshwari7887@gmail.com)&ensp;
-[![GitHub](https://img.shields.io/badge/🐙%20%20GitHub-Yogeshwari7887-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yogeshwari7887)&ensp;
-[![LinkedIn](https://img.shields.io/badge/💼%20%20LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yogeshwari-kalaskar)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yogeshwari7887&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=ffffff&border_radius=10"/>
+&nbsp;
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yogeshwari7887&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&border_radius=10"/>
 
 <br/><br/>
 
-| 📍 Location | 🎓 Education | ✉️ Email | 💼 Status |
-|:---:|:---:|:---:|:---:|
-| Pune, MH, India | VIT Pune — B.Tech IT | yogeshwari7887@gmail.com | Open to Opportunities ✅ |
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshwari7887&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff&border_radius=10"/>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yogeshwari7887&bg_color=0D1117&color=A855F7&line=6C63FF&point=EC4899&area=true&hide_border=true&radius=10"/>
 
 </div>
 
 ---
 
+<!-- Education Timeline -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🎓 Education Journey
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                     ACADEMIC TIMELINE                           ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  🏛️  Vishwakarma Institute of Technology, Pune                  ║
+║      B.Tech – Information Technology                            ║
+║      CGPA: 9.4 / 10  ⭐⭐⭐⭐⭐   Expected: 2028              ║
+║      [ Full Stack • Software Engineering • AI Applications ]   ║
+║                                                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  🏫  Government Polytechnic Jalgaon                             ║
+║      Diploma – Computer Engineering  (3 Years)                  ║
+║      Final Score: 91.49%  ⭐⭐⭐⭐⭐                           ║
+║      [ Programming • Database • Web Technologies ]             ║
+║                                                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  🏢  Passion Software Solutions Pvt. Ltd.                       ║
+║      Full Stack Python Trainee  (7 Weeks · June 2024)          ║
+║      [ Python • Django • JS • Bootstrap • Git ]               ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
+---
+
+<!-- Skills Radar / Self Rating -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## ⚡ Skill Proficiency
+
 <div align="center">
 
-*"Building scalable web applications and intelligent software solutions*
-*through clean architecture, modern technologies, and continuous learning."*
+| Skill | Proficiency | Level |
+|-------|-------------|-------|
+| 🐍 Python | `█████████░` 9/10 | Expert |
+| 🗄️ MySQL | `█████████░` 9/10 | Expert |
+| 🌐 HTML5 | `█████████░` 9/10 | Expert |
+| 🐘 PHP | `████████░░` 8/10 | Advanced |
+| 🎨 CSS3 | `████████░░` 8/10 | Advanced |
+| 💾 SQL | `████████░░` 8/10 | Advanced |
+| ⚙️ C | `████████░░` 8/10 | Advanced |
+| 🎯 Django | `███████░░░` 7/10 | Proficient |
+| 🅱️ Bootstrap | `███████░░░` 7/10 | Proficient |
+| 🔧 Git & GitHub | `███████░░░` 7/10 | Proficient |
+| 🟨 JavaScript | `██████░░░░` 6/10 | Intermediate |
+| ☕ Java | `██████░░░░` 6/10 | Intermediate |
+| 🍃 MongoDB | `██████░░░░` 6/10 | Intermediate |
+
+</div>
+
+---
+
+<!-- Achievements -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🏆 Highlights & Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Yogeshwari7887&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=4"/>
+
+<br/><br/>
+
+| 🎯 Achievement | 📊 Result |
+|----------------|-----------|
+| 🤖 AI Traffic System Detection Accuracy | **92%** |
+| ⚡ Emergency Response Time Reduction | **~40%** |
+| 🎓 B.Tech CGPA at VIT Pune | **9.4 / 10** |
+| 📜 Diploma Score at GP Jalgaon | **91.49%** |
+| 🏢 Industry Training Duration | **7 Weeks** |
+| 💼 Full Stack Projects Delivered | **3+ Major** |
+
+</div>
+
+---
+
+<!-- Quote & Connect -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 💬 Developer Philosophy
+
+<div align="center">
+
+> *"Building scalable web applications and intelligent software solutions through clean architecture, modern technologies, and continuous learning."*
+>
+> **— Yogeshwari Kalaskar**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:2d1b69,100:0f0c29&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=a78bfa&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
 
 </div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+<p>
+  <a href="mailto:yogeshwari7887@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email%20Me-yogeshwari7887%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+<p>
+  <a href="https://github.com/Yogeshwari7887">
+    <img src="https://img.shields.io/badge/🐙%20GitHub-Yogeshwari7887-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:A855F7,100:6C63FF&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=65"/>
+
+</div>
+
+<!-- Snake Animation - Add this by setting up GitHub Actions -->
+<!-- See: https://github.com/Platane/snk -->
