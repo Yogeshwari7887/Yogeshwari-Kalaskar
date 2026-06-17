@@ -238,76 +238,104 @@ me = YogeshwariKalaskar()
 
 <br/>
 
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!-- ║            🛠️  TECH STACK                   ║ -->
-<!-- ╚══════════════════════════════════════════════╝ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                   🛠️ TECH STACK SHOWCASE                    ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> &nbsp; `< TECH STACK />`
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32"> &nbsp; `< TECH STACK />`
 
 <br/>
 
-<!-- ✦ MULTI-COLUMN TECH STACK MATRIX ✦ -->
-<table>
-  <tr>
-    <th align="center" width="25%">💻 Languages</th>
-    <th align="center" width="25%">⚙️ Backend & AI</th>
-    <th align="center" width="25%">🎨 Frontend & UI</th>
-    <th align="center" width="25%">🛠️ Databases & Tools</th>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp&amp;theme=dark&amp;perline=1" alt="Languages"/>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=django,flask,opencv,tensorflow&amp;theme=dark&amp;perline=1" alt="Backend/AI"/>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap&amp;theme=dark&amp;perline=1" alt="Frontend"/>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,vscode,git,postman&amp;theme=dark&amp;perline=1" alt="Tools"/>
-    </td>
-  </tr>
-</table>
+<!-- 🐍 LANGUAGES -->
+### 🐍 &nbsp; Languages I Speak
 
-<br/>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+&nbsp;<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+&nbsp;<img src="https://img.shields.io/badge/SQL-F29111?style=for-the-badge&logo=databricks&logoColor=white"/>
+&nbsp;<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+&nbsp;<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+&nbsp;<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
 
-### ⚡ System Proficiency Levels
+<img src="https://skillicons.dev/icons?i=python,php,js,java,c,cpp&theme=dark&perline=6"/>
 
-```
-  ╔═══════════════════════════════════════════════════════════════════════╗
-  ║                    ⚡  SKILL POWER LEVELS                            ║
-  ╠═════════════════════════╦═════════════════════════════╦══════════════╣
-  ║  SKILL                  ║  POWER BAR                  ║  LEVEL       ║
-  ╠═════════════════════════╬═════════════════════════════╬══════════════╣
-  ║  🐍 Python              ║  ████████████████████░  90% ║  EXPERT ⭐⭐⭐ ║
-  ║  🗄️  MySQL              ║  ████████████████████░  90% ║  EXPERT ⭐⭐⭐ ║
-  ║  🌐 HTML5               ║  ████████████████████░  90% ║  EXPERT ⭐⭐⭐ ║
-  ║  📊 SQL (Query)         ║  ████████████████░░░░░  80% ║  ADVANCED ⭐⭐ ║
-  ║  🎨 CSS3                ║  ████████████████░░░░░  80% ║  ADVANCED ⭐⭐ ║
-  ║  ⚙️  C / C++             ║  ████████████████░░░░░  80% ║  ADVANCED ⭐⭐ ║
-  ║  🎯 Django Framework    ║  ██████████████░░░░░░░  70% ║  SKILLED  ⭐  ║
-  ║  🤖 YOLOv8 / CV         ║  ██████████████░░░░░░░  70% ║  SKILLED  ⭐  ║
-  ║  🟨 JavaScript          ║  ████████████░░░░░░░░░  60% ║  GROWING  📈  ║
-  ║  ☕ Java                ║  ████████████░░░░░░░░░  60% ║  GROWING  📈  ║
-  ╚═════════════════════════╩═════════════════════════════╩══════════════╝
-```
+<br/><br/>
 
-<br/>
+<!-- 🎨 FRONTEND -->
+### 🎨 &nbsp; Frontend Craft
 
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="380">
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+&nbsp;<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+&nbsp;<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</p>
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark&perline=4"/>
+
+<br/><br/>
+
+<!-- ⚙️ BACKEND -->
+### ⚙️ &nbsp; Backend & Frameworks
+
+<p>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+&nbsp;<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+&nbsp;<img src="https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+<img src="https://skillicons.dev/icons?i=django,flask&theme=dark&perline=4"/>
+
+<br/><br/>
+
+<!-- 🗄️ DATABASES -->
+### 🗄️ &nbsp; Data Layer
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+&nbsp;<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark&perline=4"/>
+
+<br/><br/>
+
+<!-- 🤖 AI / CV -->
+### 🤖 &nbsp; AI & Computer Vision
+
+<p>
+<img src="https://img.shields.io/badge/YOLOv8-FF6B35?style=for-the-badge&logo=opencv&logoColor=white"/>
+&nbsp;<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+&nbsp;<img src="https://img.shields.io/badge/Computer_Vision-A855F7?style=for-the-badge&logo=nvidia&logoColor=white"/>
+&nbsp;<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</p>
+
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch&theme=dark&perline=4"/>
+
+<br/><br/>
+
+<!-- 🛠️ DEV TOOLS -->
+### 🛠️ &nbsp; Tools & Environment
+
+<p>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+&nbsp;<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+&nbsp;<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+&nbsp;<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+&nbsp;<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+&nbsp;<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,androidstudio,linux,postman&theme=dark&perline=6"/>
 
 </div>
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
 
 <!-- ╔══════════════════════════════════════════════╗ -->
 <!-- ║            🚀  FEATURED PROJECTS            ║ -->
@@ -319,7 +347,7 @@ me = YogeshwariKalaskar()
 
 <br/>
 
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="380">
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="180">
 
 <br/><br/>
 
@@ -368,18 +396,18 @@ An intelligent system that sees & reacts:
 <td width="45%" align="center">
 
 <pre lang="text">
-┌─────────────────────────────┐
-│  🚑  AMBULANCE DETECTED     │
-├─────────────────────────────┤
-│  Confidence   →  94.2%      │
-│                             │
-│  Signal A     →  🔴 STOP    │
-│  Signal B     →  🔴 STOP    │
-│  Signal C     →  🟢 GO      │
-│                             │
-│  Corridor     →  CLEARED ✅ │
-│  Response     →  ~40% Fst ⚡│
-└─────────────────────────────┘
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+│  🚑  AMBULANCE DETECTED     
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+│  Confidence   →  94.2%      
+│                             
+│  Signal A     →  🔴 STOP    
+│  Signal B     →  🔴 STOP    
+│  Signal C     →  🟢 GO      
+│                             
+│  Corridor     →  CLEARED ✅ 
+│  Response     →  ~40% Fst ⚡
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </pre>
 
 <br/>
@@ -408,25 +436,25 @@ An intelligent system that sees & reacts:
 
 <table>
 <tr>
-<td width="45%" align="center">
+<td width="55%" align="center">
 
 <pre lang="text">
-┌─────────────────────────────────┐
-│  🌿  GROWPURE · ADMIN PANEL     │
-├─────────────────────────────────┤
-│  📦 Orders      →   247   🟢    │
-│  👥 Users       →  1,394  🔵    │
-│  🏷️  Coupons     →    18   🟣    │
-│  💰 Revenue     → ₹92,400 📈    │
-├─────────────────────────────────┤
-│  🛒 Cart Sessions Active: 83    │
-│  ❤️  Wishlists     Total:  512   │
-│  🚚 Pending Orders →  12        │
-└─────────────────────────────────┘
+
+│  🌿  GROWPURE · ADMIN PANEL    
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+│  📦 Orders      →   247   🟢    
+│  👥 Users       →  1,394  🔵    
+│  🏷️  Coupons     →    18   🟣    
+│  💰 Revenue     → ₹92,400 📈    
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+│  🛒 Cart Sessions Active: 83    
+│  ❤️  Wishlists     Total:  512   
+│  🚚 Pending Orders →  12        
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </pre>
 
 </td>
-<td width="55%">
+<td width="45%">
 
 <pre lang="text">
 🌟  ENTERPRISE FEATURES
@@ -627,29 +655,6 @@ support, guidance, and high-trust counseling.
 
 <br/><br/>
 
-### 📚 Currently Learning & Exploring
-
-```mermaid
-mindmap
-  root((Learning Map))
-    AI & Machine Learning
-      Computer Vision
-      YOLOv8 & Object Detection
-      Deep Learning Foundations
-    Full Stack Engineering
-      Advanced Django REST APIs
-      React.js Ecosystem
-      System Design
-    Cloud & DevOps
-      Docker Fundamentals
-      CI/CD Pipelines
-      Cloud Deployment
-    Data & Algorithms
-      Advanced DSA
-      Database Optimization
-      Data Engineering Basics
-```
-
 <br/>
 
 </div>
@@ -681,45 +686,6 @@ mindmap
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!-- ║           🗺️  ROADMAP 2025 — 2026            ║ -->
-<!-- ╚══════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&amp;weight=700&amp;size=28&amp;pause=99999&amp;color=AE45EA&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=55&amp;lines=%F0%9F%97%BA%EF%B8%8F+My+2025%E2%80%9326+Roadmap" alt="Roadmap" />
-
-</div>
-
-```
-  ╔════════════════════════════════════════════════════════════════════╗
-  ║            ⚡  YOGESHWARI'S TECH ROADMAP 2025 — 2026             ║
-  ╠═══════════════════════════════╦════════════════════════════════════╣
-  ║   ✅  COMPLETED               ║   🔥  IN PROGRESS                 ║
-  ╠═══════════════════════════════╬════════════════════════════════════╣
-  ║  ✅ Python Full Stack         ║  🔥 Django REST Framework         ║
-  ║  ✅ MySQL Database Design     ║  🔥 React + TypeScript            ║
-  ║  ✅ YOLOv8 Computer Vision    ║  🔥 Advanced AI / ML              ║
-  ║  ✅ GrowPure E-Commerce       ║  🔥 Docker & Containers           ║
-  ║  ✅ AI Traffic System         ║  🔥 AWS Cloud Basics              ║
-  ║  ✅ Counseling Platform       ║  🔥 Open Source Contributions     ║
-  ║  ✅ Industry Training (7 wk)  ║  🔥 DSA & System Design           ║
-  ╠═══════════════════════════════╩════════════════════════════════════╣
-  ║                     🎯  NEXT BIG GOALS                            ║
-  ╠════════════════════════════════════════════════════════════════════╣
-  ║  ⚡  Land a Software Engineering Internship                       ║
-  ║  🚀  Build a SaaS Product from scratch                            ║
-  ║  💻  Contribute to 10+ Open Source Repositories                   ║
-  ║  ☁️   Master Cloud Architecture (AWS / Azure)                      ║
-  ║  🤖  Deploy a production AI model at scale                        ║
-  ║  🎓  Graduate B.Tech with 9.5+ CGPA                               ║
-  ╠════════════════════════════════════════════════════════════════════╣
-  ║  🌟  DREAM  →  Senior AI + Full Stack Engineer @ Top Tech Co. 💜  ║
-  ╚════════════════════════════════════════════════════════════════════╝
-```
 
 <br/>
 
