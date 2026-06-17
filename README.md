@@ -5,14 +5,16 @@
 <div align="center">
 
 <!-- ✦✦✦ HERO BANNER — Soft Bloom Style ✦✦✦ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:FF6FD8,30:AE45EA,60:3C1053,100:0D0D0D&height=280&section=header&text=Yogeshwari%20Kalaskar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=✦%20Full%20Stack%20Developer%20·%20AI%20Engineer%20·%20Python%20Wizard%20✦&descAlignY=63&descSize=19&descColor=FFD6F5&stroke=FF6FD8&strokeWidth=1.5"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0F0C29,30:302B63,60:24243e,100:A855F7&height=300&section=header&text=Yogeshwari%20Kalaskar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=⚡%20Full%20Stack%20Developer%20%7C%20🤖%20AI%20Engineer%20%7C%20🐍%20Python%20Wizard&descAlignY=65&descSize=20&descColor=E0AAFF&stroke=A855F7&strokeWidth=2"/>
 </div>
 
 <div align="center">
 
-<!-- ✦ TYPING SVG — feminine warm palette ✦ -->
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=24&duration=2800&pause=900&color=FF6FD8&center=true&vCenter=true&width=750&height=55&lines=✨+Hey+there!+I'm+Yogeshwari+💜;🚀+Building+Intelligent+Software+Solutions;🤖+AI+Traffic+System+·+92%25+Accuracy;🌸+Full+Stack+Dev+%40+VIT+Pune+·+CGPA+9.4+⭐;🐍+Python+%7C+Django+%7C+React+%7C+YOLOv8;💡+Turning+complex+problems+into+clean+code;🌺+Girl+Who+Codes+·+Dreams+·+Builds+·+Ships+🚀" alt="Typing SVG" />
+
+<!-- ✦ ANIMATED TYPING SVG ✦ -->
+<a href="https://github.com/Yogeshwari7887">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=🚀+Building+the+Future+with+Code;🤖+AI-Powered+Smart+Traffic+%7C+92%25+Accuracy;🌐+Full+Stack+%7C+Python+%7C+Django+%7C+React;💡+B.Tech+IT+%40+VIT+Pune+%7C+CGPA+9.4+⭐;🔥+Turning+Ideas+into+Intelligent+Software;✨+Clean+Architecture+%7C+Scalable+Solutions;💜+Pune%2C+India+→+Making+Global+Impact" alt="Typing SVG" />
+</a>
 
 <br/><br/>
 
@@ -248,7 +250,7 @@ me = YogeshwariKalaskar()
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=30&pause=99999&color=AE45EA&center=true&vCenter=true&width=500&height=55&lines=🛠️+My+Tech+Arsenal" alt="Tech Stack" />
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> &nbsp; `< FEATURED PROJECTS />`
 
 <br/>
 
